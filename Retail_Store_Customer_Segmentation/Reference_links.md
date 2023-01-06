@@ -2,7 +2,6 @@
 # Reference Links
 
 1) Customer Segmentation using RFM analysis in python:
-
 https://eminebozkus.medium.com/customer-segmentation-using-rfm-analysis-in-python-35f6c2190189
 
 
