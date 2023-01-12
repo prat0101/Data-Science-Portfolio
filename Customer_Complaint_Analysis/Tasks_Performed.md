@@ -33,10 +33,10 @@ b)	Find weeks of the month when the maximum complaints were raised.
 2)	Find the frequently occurring complaint type.
 3)	 Provide State-wise distribution of complaints.
 
- Find the state with the maximum no. of complaints and the state with the maximum no. of unresolved complaints.
+4) Find the state with the maximum no. of complaints and the state with the maximum no. of unresolved complaints.
 
-4)	Find the percentage of complaints resolved in the different states to date. Find the state with the maximum percentage of unresolved complaints.
+5)	Find the percentage of complaints resolved in the different states to date. Find the state with the maximum percentage of unresolved complaints.
 
-5)	Percentage of complaints resolved till the date received via Customer care call and internet
+6)	Percentage of complaints resolved till the date received via Customer care call and internet
 
 
