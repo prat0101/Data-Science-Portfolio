@@ -24,7 +24,8 @@ Status: Status of complaint (whether open or closed).
 Filling on behalf of someone: Whether the complaint is registered on behalf of someone or not.
 
 ### Tasks Performed: 
-1)	Find the number of complaints at monthly and daily granularity levels: 
+1)	Find the number of complaints at monthly and daily granularity levels:
+ 
 a)	Find in which month the maximum number of complaints were raised.
 
 b)	Find weeks of the month when the maximum complaints were raised.
