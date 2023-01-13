@@ -24,3 +24,11 @@
 •	Created parameters for regions, shown the sum of sales for different products, shown variation of sales with respect to time, used maps to show states in different regions.
 
 •	Created a dashboard to compare sales characteristics of two different regions at a time.
+
+## 4. Comcast Customer Project Details
+•	Objective:
+Data gives information about customers’ complaints received from different regions at different times of the year. Do the data analysis based on types of complaints, number of complaints, and region-based distribution of complaints. This will help the telecom service provider to take necessary actions for reducing the number of complaints.
+
+•	Tasks Performed: 
+Using EDA Techniques in pandas library to for data analysis of registered complaints.
+
