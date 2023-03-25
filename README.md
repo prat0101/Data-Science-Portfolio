@@ -34,8 +34,11 @@ Using EDA Techniques in pandas library to for data analysis of registered compla
 
 ## 5. Marketing Mix Modeling
 •	Objective:  To establish correlation between spend on marketing promotions and sales.
+
 •	Feature engineering and Feature selection:  Log transformation, outliers’ detection, check for multicollinearity, feature scaling (Standardization).
+
 •	Model Training: Used Stats model, Linear regression, and XGBoost algorithms and performed hyperparameter tuning to optimize metrics. Generated Response curves.
+
 •	Data Visualization: Showing relation between Product, Price, Promotions and Places (4Ps) with Sales using Tableau dashboards. Optimizing spends on promotions.
 
 
